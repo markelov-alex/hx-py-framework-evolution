@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="ASimple" package="com.sample.dresser" version="1.0.0" company="Company Name" />
+	<app main="v3.Main" path="Export" file="DresserApp" />
+	
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+	
+	<!--<assets path="Assets" rename="assets" />-->
+	<library path="assets/dresser.swf" preload="true"/>
+</project>

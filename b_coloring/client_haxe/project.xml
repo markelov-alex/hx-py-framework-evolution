@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="Coloring" package="com.sample.coloring" version="1.0.0" company="Company Name" />
+	<app main="v5.Main" path="Export" file="Coloring" />
+	
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+
+	<!--<assets path="Assets" rename="assets" />-->
+	<library path="assets/coloring.swf" preload="true"/>
+</project>

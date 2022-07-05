@@ -1,0 +1,9 @@
+.idea/
+Export/
+out/
+__pycache__
+temp/
+*.iml
+RECOVER_*.fla
+save_coloring
+save_dresser
