@@ -1,0 +1,25 @@
+package v2.dresser;
+
+import v0.lib.Signal.Signal2;
+import v0.lib.Signal;
+
+/**
+ * IDresserProtocol.
+ * 
+ */
+interface IDresserProtocol
+{
+	// State
+	
+	public var state(default, set):Array<Int>;
+
+	// Signals
+
+	public var stateChangeSignal(default, null):Signal<Array<Int>>;
+	public var itemChangeSignal(default, null):Signal2<Int, Int>;
+
+	// Methods
+	
+	public function load():Void;
+	public function changeItem(itemIndex:Int, frame:Int):Void;
+}

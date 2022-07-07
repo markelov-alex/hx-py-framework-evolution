@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Dialogs" package="com.sample.dialogs" version="1.0.0" company="Company Name"/>
+	<app main="v2.Main" path="Export" file="dialogs"/>
+	
+	<source path="src"/>
+	
+	<haxelib name="openfl"/>
+	<haxelib name="yaml"/>
+
+	<library path="assets/menu.swf" preload="true"/>
+	<library path="assets/game.swf"/>
+	<assets path="assets"/>
+</project>

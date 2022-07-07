@@ -1,0 +1,10 @@
+{
+	"en": {
+		"@menu_title": "Managers"
+	},
+	"ru": {
+		"@menu_title": "Менеджеры",
+		"Dressing": "Одевалка",
+		"Coloring": "Раскраска"
+	}
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Screens" package="com.sample.screens" version="1.0.0" company="Company Name" />
+	<app main="v1.Main" path="Export" file="screens" />
+	
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+
+	<!--<assets path="Assets" rename="assets" />-->
+	<library path="assets/menu.swf" preload="true"/>
+	<library path="assets/game.swf"/>
+</project>

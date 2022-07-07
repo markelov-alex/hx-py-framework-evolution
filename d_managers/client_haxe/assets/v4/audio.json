@@ -1,0 +1,13 @@
+{
+	"soundVolume": 0.9,
+	"sound": {
+		"click_button": {
+			"volume": 0.9
+		}
+	},
+	"music": {
+		"music_dresser": {
+			"volume": 1.6
+		}
+	}
+}

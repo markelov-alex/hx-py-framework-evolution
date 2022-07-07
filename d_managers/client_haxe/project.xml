@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="Managers" package="com.sample.managers" version="1.0.0" company="Company Name"/>
+	<app main="v4.Main" path="Export" file="managers"/>
+	
+	<source path="src"/>
+	
+	<haxelib name="openfl"/>
+	<haxelib name="yaml"/>
+
+	<library path="assets/menu.swf" preload="true"/>
+	<library path="assets/game.swf"/>
+	<assets path="assets/audio"/>
+	<assets path="assets/v2" rename="assets"/>
+	<assets path="assets/v4" rename="assets"/>
+</project>

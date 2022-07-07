@@ -1,0 +1,11 @@
+#currentLang: ru
+en: 
+    "@menu_title": "Models"
+ru: 
+    "@menu_title": "Модели"
+    "Dressing": "Одевалка"
+    "Coloring": "Раскраска"
+    "Sound volume:": "Громкость звуков:"
+    "Music volume:": "Громкость музыки:"
+    "Save": "Сохранить"
+    

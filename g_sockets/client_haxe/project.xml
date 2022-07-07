@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="Sockets" package="com.sample.sockets" version="1.0.0" company="Company Name"/>
+	<app main="v9.Main" path="Export" file="sockets"/>
+	
+	<source path="src"/>
+	
+	<haxelib name="openfl"/>
+	<haxelib name="yaml"/>
+
+	<library path="assets/menu.swf" preload="true"/>
+	<library path="assets/game.swf"/>
+	<assets path="assets"/>
+</project>

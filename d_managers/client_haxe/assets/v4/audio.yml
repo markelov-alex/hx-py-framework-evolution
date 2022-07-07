@@ -1,0 +1,31 @@
+#isSoundOn: true
+#isMusicOn: true
+#soundVolume: 1
+musicVolume: .3
+
+sound:
+  click_button:
+    pan: -1
+  click_cheched:
+    name: click_checkbox2
+music:
+  click_button:
+    name: click_checkbox
+    isLoop: true
+    pan: -1
+  music_menu:
+    name: [click_button, click_checkbox, click_checkbox2, music_menu]
+    volume: .75
+    pan: -1
+    
+  music_coloring:
+    name: music_dresser
+    volume: 1.5
+    pan: -1
+  music_dresser:
+    name: music_coloring
+    isLoop: false
+    startTime: 10000
+    volume: 1.5
+    pan: 1
+    

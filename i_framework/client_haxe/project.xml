@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="Framework" package="com.april.framework" version="1.0.0" company="April"/>
+	<app main="v1.Main" path="Export" file="framework"/>
+	
+	<source path="src"/>
+	
+	<haxelib name="openfl"/>
+	<haxelib name="yaml"/>
+
+	<library path="assets/menu.swf" preload="true"/>
+	<library path="assets/game.swf"/>
+	<assets path="assets"/>
+</project>

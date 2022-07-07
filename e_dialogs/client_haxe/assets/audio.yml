@@ -1,0 +1,11 @@
+#isSoundOn: true
+#isMusicOn: true
+#soundVolume: 1
+musicVolume: .2
+
+sound:
+  click_button:
+    pan: -1
+  click_cheched:
+    name: click_checkbox2
+#music:

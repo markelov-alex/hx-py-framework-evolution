@@ -1,0 +1,22 @@
+#currentLang: ru
+en: 
+    "@menu_title": "Loader"
+    "@confirm_dialog_title": "Exit"
+    "@confirm_dialog_message": "All changes will be discarded.\nAre you sure?"
+ru: 
+    "@menu_title": "Загрузчик"
+    "Dressing": "Одевалка"
+    "Dressing 1": "Одевалка 1"
+    "Dressing 2": "Одевалка 2"
+    "Dressing 3": "Одевалка 3"
+    "Coloring": "Раскраска"
+    "Coloring 1": "Раскраска 1"
+    "Coloring 2": "Раскраска 2"
+    "Coloring 3": "Раскраска 3"
+    "Sound volume:": "Громкость звуков:"
+    "Music volume:": "Громкость музыки:"
+    "Save": "Сохранить"
+    "Cancel": "Отмена"
+    "@confirm_dialog_title": "Выйти"
+    "@confirm_dialog_message": "Все изменения будут отменены.\nВы уверены?"
+    

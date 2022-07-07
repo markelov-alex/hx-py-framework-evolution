@@ -1,0 +1,11 @@
+{
+	"-currentLang": "ru",
+	"en": {
+		"@menu_title": "Managers"
+	},
+	"ru": {
+		"@menu_title": "Менеджеры",
+		"#del Dressing": "Одевалка",
+		"Coloring": "Раскраска"
+	}
+}

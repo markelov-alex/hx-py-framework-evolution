@@ -1,0 +1,8 @@
+#currentLang: ru
+en: 
+    "@menu_title": "Managers"
+ru: 
+    "@menu_title": "Менеджеры"
+    Dressing: Одевалка
+    # del "Coloring": "Раскраска"
+    

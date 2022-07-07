@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="Models" package="com.sample.models" version="1.0.0" company="Company Name"/>
+	<!-- v1-v6 for HTTP server, v7+ - for Socket server -->
+	<app main="v7.Main" path="Export" file="models"/>
+	
+	<source path="src"/>
+	 
+	<haxelib name="openfl"/>
+	<haxelib name="yaml"/>
+
+	<library path="assets/menu.swf" preload="true"/>
+	<library path="assets/game.swf"/>
+	<assets path="assets"/>
+</project>

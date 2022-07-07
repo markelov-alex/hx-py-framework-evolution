@@ -1,0 +1,26 @@
+{
+	"v3.lib.AudioManager": {
+		"defaultAssetName": "audio.yaml",
+		"soundVolume": 0.5
+	},
+	"AudioManager": {
+		"defaultAssetName": "audio.json",
+		"soundVolume": 0.6
+	},
+	"v4.lib.AudioManager": {
+		"defaultAssetName": "audio.yml",
+		"soundVolume": 0.7
+	},
+	
+	"my-Coloring1": {
+		"defaultColor": 15722959
+	},
+	"my-Coloring2": {
+		"super": "my-Coloring1",
+		"pictureAssetNames": ["game:AssetPicture02", "game:AssetPicture01"]
+	},
+	"Coloring": {
+		"super": "my-Coloring2",
+		"pictureIndex": 1
+	}
+}
