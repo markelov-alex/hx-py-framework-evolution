@@ -96,7 +96,7 @@ class Drag
             if (mc != null)
             {
                 stage = mc.stage;
-                mc.addEventListener(MouseEvent.MOUSE_DOWN, skin_mouseDownHandler);
+                mc.addEventListener(MouseEvent.MOUSE_DOWN, mc_mouseDownHandler);
                 if (stage != null)
                 {
                     stage.addEventListener(MouseEvent.MOUSE_UP, stage_mouseUpHandler);
@@ -110,7 +110,7 @@ class Drag
     {
         this.mc = mc;
     }
-    private function skin_mouseDownHandler(event:MouseEvent):Void
+    private function mc_mouseDownHandler(event:MouseEvent):Void
     {
         if (stage != null)
         {
