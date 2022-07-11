@@ -18,8 +18,6 @@ interface IStorageService
 	public var stateChangeSignal(default, null):Signal<Dynamic>;
 	public var itemChangeSignal(default, null):Signal2<Dynamic, Dynamic>;
 
-	// Signals
-
 	// Methods
 
 	public function load():Void;

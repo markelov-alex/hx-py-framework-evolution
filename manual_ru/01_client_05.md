@@ -618,7 +618,7 @@ class Dresser extends Component
             prevButton.skinPath = path;
             prevButton.clickHandler = prevButton_clickHandler;
             addChild(prevButton); // Skin will be set here
-            prevButton.push(prevButton);
+            prevButtons.push(prevButton);
         }
         nextButton = [];
         for (path in nextButtonPaths)
@@ -627,7 +627,7 @@ class Dresser extends Component
             nextButton.skinPath = path;
             nextButton.clickHandler = nextButton_clickHandler;
             addChild(nextButton); // Skin will be set here
-            prevButton.push(nextButton);
+            nextButtons.push(nextButton);
         }
     }
     //...
