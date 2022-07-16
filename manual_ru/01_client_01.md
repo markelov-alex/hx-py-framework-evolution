@@ -317,7 +317,7 @@ class Main extends Sprite
         super();
         // View
         // (If preload="true" in project.xml)
-         var mc = Assets.getMovieClip("dresser:AssetDresserScreen");
+        var mc = Assets.getMovieClip("dresser:AssetDresserScreen");
         addChild(mc);
         // Logic
         new Dresser(mc);

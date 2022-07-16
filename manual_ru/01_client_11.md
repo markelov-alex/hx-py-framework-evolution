@@ -135,7 +135,7 @@ music:
   track2:
     name: music2
     volume: .85
-  music_menu:  # Playlist. "music_menu" could be default musicName value in MenuScreen
+  music_menu:  # Playlist "music_menu" could be default musicName value in MenuScreen
     name: [track1, track2, music3]
     isLoop: true
     volume: .75
