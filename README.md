@@ -27,6 +27,16 @@ Universal game framework evolution: client ([Haxe](https://haxe.org/) + [OpenFl]
 	2. [Client](manual_ru/01_client_01.md)
 	3. [Server](manual_ru/02_server_01.md)
 
+	Сжатая но более свежая версия на хабре:
+	[Постановка проблемы](https://habr.com/ru/post/674754/)
+	Клиент
+	1. [Логика отображения](https://habr.com/ru/post/677312/)
+	2. [Менеджеры и другие классы](https://habr.com/ru/post/677386/)
+	3. [Слои логики](https://habr.com/ru/post/677854/)
+	Сервер
+	1. [Слои инфраструктуры](https://habr.com/ru/post/678658/)
+	2. [Слои логики](https://habr.com/ru/post/678666/)
+
 If your developers fix bugs most of the time instead of developing new features, and you wish to change this, you can contact me:
 - email alex.panoptik@gmail.com
 - telegram [@alexander_markelov](https://t.me/alexander_markelov)

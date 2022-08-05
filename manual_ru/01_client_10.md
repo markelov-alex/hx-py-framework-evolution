@@ -99,20 +99,20 @@ class ResourceManager
             callback(movieClip);
         });
     }
-    public function getMovieClip(assetName:String):MovieClip
-    {
-        if (assetName == null || assetName == "")
-        {
-            return null;
-        }
-        var libraryName = getLibraryName(assetName);
-        if (!loadedLibraries.contains(libraryName))
-        {
-            // Not loaded yet
-            return null;
-        }
-        return Assets.getMovieClip(assetName);
-    }
+	public function getMovieClip(assetName:String):MovieClip
+	{
+		if (assetName == null || assetName == "")
+		{
+			return null;
+		}
+		var libraryName = getLibraryName(assetName);
+		if (!loadedLibraries.contains(libraryName))
+		{
+			// Not loaded yet
+			return null;
+		}
+		return Assets.getMovieClip(assetName);
+	}
     private function getLibraryName(assetName:String):String
     {
         return assetName.indexOf(":") != -1 ? assetName.split(":")[0] : "default";
