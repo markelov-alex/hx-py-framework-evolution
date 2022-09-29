@@ -37,9 +37,3 @@ Universal game framework evolution: client ([Haxe](https://haxe.org/) + [OpenFl]
 	1. [Слои инфраструктуры](https://habr.com/ru/post/678658/)
 	2. [Слои логики](https://habr.com/ru/post/678666/)
 
-If your developers fix bugs most of the time instead of developing new features, and you wish to change this, you can contact me:
-- email alex.panoptik@gmail.com
-- telegram [@alexander_markelov](https://t.me/alexander_markelov)
-
-If you like this and wish to support the further work: 5559 4936 9401 1496
-
