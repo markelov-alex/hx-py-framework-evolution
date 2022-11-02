@@ -1,6 +1,6 @@
 # hx-py-framework-evolution
 
-Universal game framework evolution: client ([Haxe](https://haxe.org/) + [OpenFl](https://www.openfl.org/)) and server ([Python](https://python.org/) side.
+Universal game framework evolution: client ([Haxe](https://haxe.org/) + [OpenFl](https://www.openfl.org/)) and server ([Python](https://python.org/)) side.
 
 1. Sources (client):
 	1. [Simplest game — Dress-Up](a_dresser/)
